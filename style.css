@@ -1,0 +1,11 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+#addButton {
+  margin: 10px 10px;
+}
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
